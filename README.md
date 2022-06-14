@@ -1,17 +1,3 @@
-# Apphub on Github
-
-## Use the curated folder chart
-
-```
-helm repo add hubcurated https://cloudnativeapp.github.io/charts/curated/
-helm repo update
-helm search repo hubcurated -l
-```
-
-## Use the subbmitted folder chart
-
-```
-helm repo add hubsubbmitted https://cloudnativeapp.github.io/charts/subbmitted/
-helm repo update
-helm search repo hubsubbmitted -l
-```
+Github 上的应用程序
+使用精选文件夹图表
+helm repo 添加 
